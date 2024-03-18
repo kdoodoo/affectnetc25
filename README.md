@@ -2,7 +2,7 @@
 
 - Each Image was Annotated by 25 International Participants.<br>
   
-|Experiment Set I |800 Confuning Images |25 Participants  |
+|Experiment Set I |800 Confusing Images |25 Participants  |
 |:-----------------|:--------------------|:---------------|
 |Experiment Set II | 800 Random Images |25 Participants  |
 |Total         | 1600 Images | 50 Participants  |
