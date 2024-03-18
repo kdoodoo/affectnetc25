@@ -1,12 +1,14 @@
 # AffectNetC25
 
-
-**Dataset Composition**
+## Dataset Composition
 |Experiment Set I | 800 Confuning Images |
 | ------------- | ------------- |
 |Experiment Set II | 800 Random Images |
 
-8 Expressions
+
+---
+## 8 Expressions
+
 Code = <br />
 {'happiness': 0, <br />
  'sadness': 1, <br />
@@ -18,18 +20,17 @@ Code = <br />
  'neutral': 7} <br />
 
 
-Arousal and Valence 
+## Arousal and Valence
+
 |Affective Rating | Range|
 | ------------- | ------------- |
 |Arousal | -1.00, -0.75. -0.50, -0.25, 0.00, 0.25, 0.50, 0.75, 1.00|
 |Valence |  -1.00, -0.75. -0.50, -0.25, 0.00, 0.25, 0.50, 0.75, 1.00|
 
 
+---
 
-
-
-
-**Original model links**
+## Reference Model Links
 
 |MODEL  | LINK |
 | ------------- | ------------- |
