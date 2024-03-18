@@ -8,7 +8,7 @@
 |Total         | 1600 Images | 50 Participants  |
 
 - ScreenShot of Free Annotation HTML-Javascript WebAPP.
-<img src="[https://raw.githubusercontent.com/kdoodoo/affectnetc25/main/html_js.png](https://raw.githubusercontent.com/kdoodoo/affectnetc25/main/html_js.png?token=GHSAT0AAAAAACPWFZJ3TT2NLMP7ROD6Q4RSZPYERSQ)" width=75% >
+<img src="https://raw.githubusercontent.com/kdoodoo/affectnetc25/main/html_js.png" width=60% >
 
 ### 8 Expressions, Arousal and Valence
 |AffectNetC25 | Expression | Arousal | Valence | 
