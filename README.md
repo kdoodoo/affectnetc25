@@ -27,15 +27,15 @@
 # Our Model 
 - EXP: Expression, ARO: Arousal, VAL: Valence
   
-|MODEL  | EXP, ARO, VAL| LINK |
-|:------------- |:------------- |:----------|
-| ResNet50 Fine-tuned | EXP, ARO, VAL|[LINK](https://drive.google.com/drive/folders/1hsxtU8t2keXSq7Z-d-RaYN0P14tCNbh4?usp=drive_link)
-|ResNet50 Crowd Layer (MW, VW, VW+B)| EXP | [LINK](https://drive.google.com/drive/folders/1oDMCFqxT547wcsQ_ecdF4NjbkBvgoDbC?usp=drive_link)
-|ResNet50 Crowd Layer (S+B)|ARO, VAL| [LINK](https://drive.google.com/drive/folders/11lLKZAHkXPlyZU_4lAA3aobOYwBiwQc1?usp=drive_link)
-| EMONET Fine-tuned | ARO, VAL| [LINK](https://drive.google.com/drive/folders/1DzaPYztd7VvIwefJDNVkRJLSqOv1Uc1u?usp=drive_link) |
-|EfficientNet B2 Fine-tuned| ARO, VAL| [LINK](https://drive.google.com/drive/folders/1k8eeeYMPUBdSO5dFgE38Pn_Fr2ygTGPr?usp=drive_link)|
-|EfficientNet AFEW Fine-tuned |ARO, VAL| [LINK](https://drive.google.com/drive/folders/1ZihvEAEr_1HxPExT3RYW1mwFPVIsYvTC?usp=drive_link)|
-|EfficientNet VGAF Fine-tuned |ARO, VAL| [LINK](https://drive.google.com/drive/folders/1w7j8gEZMYvWiOizGMcY6NLT6BhcdZlJS?usp=drive_link)|
+|MODEL  | EXP, ARO, VAL| LINK | NOTE|
+|:------------- |:------------- |:----------|:----------|
+| ResNet50 Fine-tuned | EXP, ARO, VAL|[LINK](https://drive.google.com/drive/folders/1hsxtU8t2keXSq7Z-d-RaYN0P14tCNbh4?usp=drive_link) | TensorFlow |
+|ResNet50 Crowd Layer (MW, VW, VW+B)| EXP | [LINK](https://drive.google.com/drive/folders/1oDMCFqxT547wcsQ_ecdF4NjbkBvgoDbC?usp=drive_link) | TensorFlow |
+|ResNet50 Crowd Layer (S+B)|ARO, VAL| [LINK](https://drive.google.com/drive/folders/11lLKZAHkXPlyZU_4lAA3aobOYwBiwQc1?usp=drive_link)| TensorFlow |
+|EMONET Fine-tuned | ARO, VAL| [LINK](https://drive.google.com/drive/folders/1DzaPYztd7VvIwefJDNVkRJLSqOv1Uc1u?usp=drive_link) | Pytorch |
+|EfficientNet B2 Fine-tuned| ARO, VAL| [LINK](https://drive.google.com/drive/folders/1k8eeeYMPUBdSO5dFgE38Pn_Fr2ygTGPr?usp=drive_link)| Pytorch |
+|EfficientNet AFEW Fine-tuned |ARO, VAL| [LINK](https://drive.google.com/drive/folders/1ZihvEAEr_1HxPExT3RYW1mwFPVIsYvTC?usp=drive_link)| Pytorch |
+|EfficientNet VGAF Fine-tuned |ARO, VAL| [LINK](https://drive.google.com/drive/folders/1w7j8gEZMYvWiOizGMcY6NLT6BhcdZlJS?usp=drive_link)| Pytorch |
 
 
 
