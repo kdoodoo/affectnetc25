@@ -8,7 +8,6 @@
 
 - Each Image was Annotated by 25 International Participants.<br>
 - ScreenShot of Free Annotation HTML-Javascript WebAPP. 
-
 <img src="https://raw.githubusercontent.com/kdoodoo/affectnetc25/main/html_js.png" width=75% >
 
 
