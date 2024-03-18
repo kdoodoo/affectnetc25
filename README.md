@@ -1,24 +1,24 @@
 # AffectNetC25
 
-## Dataset Composition
-|Experiment Set I | 800 Confuning Images |
+### Experiment Set I : 800 Confuning Images 
+### Experiment Set II : 800 Random Images
+| Expression | ../expression_set1_C25.csv |
 | ------------- | ------------- |
-|Experiment Set II | 800 Random Images |
-
+| Expression | ../expression_set2_C25.csv |
+| Arousal | ../expression_set2_C25.csv |
+| Arousal | ../expression_set2_C25.csv |
+| Valence | ../expression_set2_C25.csv |
+| Valence | ../expression_set2_C25.csv |
 
 ---
 ## 8 Expressions
+| Expression Code |
+| ------------- |
+| Code = {'happiness': 0,'sadness': 1, 'surprise': 2, 'fear': 3, 'disgust': 4, 'anger': 5, 'contempt': 6, 'neutral': 7}  |
 
-Code = <br />
-{'happiness': 0, <br />
- 'sadness': 1, <br />
- 'surprise': 2, <br />
- 'fear': 3, <br />
- 'disgust': 4, <br />
- 'anger': 5, <br />
- 'contempt': 6, <br />
- 'neutral': 7} <br />
-
+| Expression | ../expression_set1_C25.csv |
+| ------------- | ------------- |
+| Expression | ../expression_set2_C25.csv |
 
 ## Arousal and Valence
 
