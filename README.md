@@ -1,8 +1,8 @@
 # AffectNetC25
 
-|Experiment Set I |800 Confuning Images |25 Crowd  |
+|Experiment Set I |800 Confuning Images |25 Participants  |
 |:-----------------|:--------------------|:---------------|
-|Experiment Set II | 800 Random Images |25 Crowd  |
+|Experiment Set II | 800 Random Images |25 Participants  |
 |Total         | 1600 Images | 50 Participants  |
 
 
@@ -12,35 +12,21 @@
 
 
 ---
-# 8 Expressions
+# 8 Expressions, Arousal and Valence
+
+|AffectNetC25 | Expression | Arousal | Valence | 
+|:-----------|:-----------|:-----------|:-----------|
+| Set I |   [expression_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/expression_set1_C25.csv) |  [arousal_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/arousal_set1_C25.csv) |[valence_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set1_C25.csv) | |
+| Set II | [expression_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/expression_set2_C25.csv)  | [arousal_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/arousal_set2_C25.csv) |[valence_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set2_C25.csv) | |
+
+
 | Expression Code |
-| :------------- |
+|:----------------------|
 | Code = {'happiness': 0,'sadness': 1, 'surprise': 2, 'fear': 3, 'disgust': 4, 'anger': 5, 'contempt': 6, 'neutral': 7}  |
-
-
-| Set I | [expression_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/expression_set1_C25.csv) |
-| ------------- | ------------- |
-| Set II | [expression_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/expression_set2_C25.csv) |
-
-
-# Arousal
 |Arousal Rating Dimension|
-| :------------------------- |
-| range = {-1.00, -0.75. -0.50, -0.25, 0.00, 0.25, 0.50, 0.75, 1.00}|
+| range = {-1.00,  -0.75,  -0.50,  -0.25,  0.00,  0.25,  0.50,  0.75,  1.00}|
 
-| Set I | [arousal_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/arousal_set1_C25.csv) |
-| :------------- | :------------- |
-| Set II | [arousal_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/arousal_set1_C25.csv) |
-
-# Valence
-|Valence Rating Dimension|
-| :------------------------- |
-| range = {  -1.00, -0.75. -0.50, -0.25, 0.00, 0.25, 0.50, 0.75, 1.00}|
-
-
-| Set I | [valence_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set1_C25.csv) |
-| :------------- | :------------- |
-| Set II | [valence_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set1_C25.csv) |
+25/blob/main/AffectNetC25/valence_set1_C25.csv) |
 
 -----------------------------------------
 # Our Model 
