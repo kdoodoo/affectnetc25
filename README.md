@@ -1,19 +1,16 @@
 # AffectNetC25
 
+- Each Image was Annotated by 25 International Participants.<br>
+  
 |Experiment Set I |800 Confuning Images |25 Participants  |
 |:-----------------|:--------------------|:---------------|
 |Experiment Set II | 800 Random Images |25 Participants  |
 |Total         | 1600 Images | 50 Participants  |
 
+- ScreenShot of Free Annotation HTML-Javascript WebAPP.
+<img src="[https://raw.githubusercontent.com/kdoodoo/affectnetc25/main/html_js.png](https://raw.githubusercontent.com/kdoodoo/affectnetc25/main/html_js.png?token=GHSAT0AAAAAACPWFZJ3TT2NLMP7ROD6Q4RSZPYERSQ)" width=75% >
 
-- Each Image was Annotated by 25 International Participants.<br>
-- ScreenShot of Free Annotation HTML-Javascript WebAPP. 
-<img src="https://raw.githubusercontent.com/kdoodoo/affectnetc25/main/html_js.png" width=75% >
-
-
----
 # 8 Expressions, Arousal and Valence
-
 |AffectNetC25 | Expression | Arousal | Valence | 
 |:-----------|:-----------|:-----------|:-----------|
 | Set I |   [expression_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/expression_set1_C25.csv) |  [arousal_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/arousal_set1_C25.csv) |[valence_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set1_C25.csv) | |
@@ -25,8 +22,6 @@
 | Code = {'happiness': 0,'sadness': 1, 'surprise': 2, 'fear': 3, 'disgust': 4, 'anger': 5, 'contempt': 6, 'neutral': 7}  |
 |Arousal Rating Dimension|
 | range = {-1.00,  -0.75,  -0.50,  -0.25,  0.00,  0.25,  0.50,  0.75,  1.00}|
-
-25/blob/main/AffectNetC25/valence_set1_C25.csv) |
 
 -----------------------------------------
 # Our Model 
