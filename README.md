@@ -41,7 +41,8 @@
 | Set I | [valence_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set1_C25.csv) |
 | :------------- | :------------- |
 | Set II | [valence_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set1_C25.csv) |
---
+
+-----------------------------------------
 # Our Model 
 |MODEL  | EXP, ARO, VAL| LINK |
 |:------------- |:------------- |:----------|
