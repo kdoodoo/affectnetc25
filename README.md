@@ -41,7 +41,7 @@
 
 
 ---
-# Model Reference 
+# Reference (Utilized from)
 |MODEL  | LINK |
 | ------------- | ------------- |
 | ResNet50  |[LINK](https://www.tensorflow.org/api_docs/python/tf/keras/applications/resnet50/ResNet50) |
