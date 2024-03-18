@@ -46,6 +46,7 @@
 |MODEL  | EXP, ARO, VAL| LINK |
 |:------------- |:------------- |:----------|
 | ResNet50 Fine-tuned | EXP, ARO, VAL|[LINK](https://drive.google.com/drive/folders/1hsxtU8t2keXSq7Z-d-RaYN0P14tCNbh4?usp=drive_link)
+|ResNet50 Crowd Layer(MW VW, VW+B)| EXP | [LINK](https://drive.google.com/drive/folders/1oDMCFqxT547wcsQ_ecdF4NjbkBvgoDbC?usp=drive_link)
 | EMONET Fine-tuned | ARO, VAL| [LINK](https://drive.google.com/drive/folders/1DzaPYztd7VvIwefJDNVkRJLSqOv1Uc1u?usp=drive_link) |
 
 
