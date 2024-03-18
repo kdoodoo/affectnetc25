@@ -20,7 +20,7 @@
 | Expression Code |
 |:----------------------|
 | Code = {'happiness': 0,'sadness': 1, 'surprise': 2, 'fear': 3, 'disgust': 4, 'anger': 5, 'contempt': 6, 'neutral': 7}  |
-|Arousal Rating Dimension|
+|Arousal and Valence Dimension|
 | range = {-1.00,  -0.75,  -0.50,  -0.25,  0.00,  0.25,  0.50,  0.75,  1.00}|
 
 -----------------------------------------
