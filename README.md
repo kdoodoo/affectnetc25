@@ -25,6 +25,7 @@
 
 -----------------------------------------
 # Our Model 
+-EXP: Expression, ARO: Arousal, VAL: Valence
 |MODEL  | EXP, ARO, VAL| LINK |
 |:------------- |:------------- |:----------|
 | ResNet50 Fine-tuned | EXP, ARO, VAL|[LINK](https://drive.google.com/drive/folders/1hsxtU8t2keXSq7Z-d-RaYN0P14tCNbh4?usp=drive_link)
