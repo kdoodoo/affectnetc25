@@ -42,12 +42,17 @@
 | Set I | valence_set1_C25.csv |
 | :------------- | :------------- |
 | Set II | valence_set2_C25.csv |
+--
+# Our Model Links
+|MODEL  | EXP, ARO, VAL| LINK |
+|:------------- |:------------- |:----------|
+| EMONET Finetuned | ARO, VAL|[LINK](https://drive.google.com/drive/folders/1DzaPYztd7VvIwefJDNVkRJLSqOv1Uc1u?usp=drive_link) |
+
+
 
 
 ---
-
-## Reference Model Links
-
+# Reference Model 
 |MODEL  | LINK |
 | ------------- | ------------- |
 | ResNet50  |[LINK](https://www.tensorflow.org/api_docs/python/tf/keras/applications/resnet50/ResNet50) |
