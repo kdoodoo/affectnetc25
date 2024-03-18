@@ -21,17 +21,23 @@
 | Set II | ../expression_set2_C25.csv |
 
 ## Arousal
-|Arousal Rating Range|
+|Arousal Rating Dimension|
 | ------------------------- |
-| -1.00, -0.75. -0.50, -0.25, 0.00, 0.25, 0.50, 0.75, 1.00|
+| range = {-1.00, -0.75. -0.50, -0.25, 0.00, 0.25, 0.50, 0.75, 1.00}|
 
 | Set I | ../arousal_set1_C25.csv |
 | ------------- | ------------- |
 | Set II | ../arousal_set2_C25.csv |
 
 ## Valence
-|Valence Rating Range|
-|  -1.00, -0.75. -0.50, -0.25, 0.00, 0.25, 0.50, 0.75, 1.00|
+|Valence Rating Dimension|
+| ------------------------- |
+| range = {  -1.00, -0.75. -0.50, -0.25, 0.00, 0.25, 0.50, 0.75, 1.00}|
+
+
+| Set I | ../valence_set1_C25.csv |
+| ------------- | ------------- |
+| Set II | ../valence_set2_C25.csv |
 
 
 ---
