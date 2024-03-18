@@ -6,17 +6,16 @@
 | ------------- | ------------- |
 |Experiment Set II | 800 Random Images |
 
-8 Expressions
-|Expresssion | Code|
-| ------------- | ------------- |
-|Expresssion | Code|
-|Expresssion | Code|
-|Expresssion | Code|
-|Expresssion | Code|
-|Expresssion | Code|
-|Expresssion | Code|
-|Expresssion | Code|
-|Neutral | 7|
+8 Expressions Code
+{'happiness': 0,
+ 'sadness': 1,
+ 'surprise': 2,
+ 'fear': 3,
+ 'disgust': 4,
+ 'anger': 5,
+ 'contempt': 6,
+ 'neutral': 7}
+
 
 Arousal and Valence 
 |Affective Rating | Range|
