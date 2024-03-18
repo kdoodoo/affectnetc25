@@ -16,16 +16,22 @@
 | ------------- |
 | Code = {'happiness': 0,'sadness': 1, 'surprise': 2, 'fear': 3, 'disgust': 4, 'anger': 5, 'contempt': 6, 'neutral': 7}  |
 
-| Expression | ../expression_set1_C25.csv |
+| Set I | ../expression_set1_C25.csv |
 | ------------- | ------------- |
-| Expression | ../expression_set2_C25.csv |
+| Set II | ../expression_set2_C25.csv |
 
-## Arousal and Valence
+## Arousal
+|Arousal Rating Range|
+| ------------------------- |
+| -1.00, -0.75. -0.50, -0.25, 0.00, 0.25, 0.50, 0.75, 1.00|
 
-|Affective Rating | Range|
+| Set I | ../arousal_set1_C25.csv |
 | ------------- | ------------- |
-|Arousal | -1.00, -0.75. -0.50, -0.25, 0.00, 0.25, 0.50, 0.75, 1.00|
-|Valence |  -1.00, -0.75. -0.50, -0.25, 0.00, 0.25, 0.50, 0.75, 1.00|
+| Set II | ../arousal_set2_C25.csv |
+
+## Valence
+|Valence Rating Range|
+|  -1.00, -0.75. -0.50, -0.25, 0.00, 0.25, 0.50, 0.75, 1.00|
 
 
 ---
