@@ -42,7 +42,7 @@
 | :------------- | :------------- |
 | Set II | [valence_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set1_C25.csv) |
 --
-# Our ModelS 
+# Our Model 
 |MODEL  | EXP, ARO, VAL| LINK |
 |:------------- |:------------- |:----------|
 | ResNet50 Fine-tuned | EXP, ARO, VAL|[LINK](https://drive.google.com/drive/folders/1hsxtU8t2keXSq7Z-d-RaYN0P14tCNbh4?usp=drive_link)
