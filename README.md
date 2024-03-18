@@ -5,10 +5,10 @@
 | Expression | ../expression_set1_C25.csv |
 | ------------- | ------------- |
 | Expression | ../expression_set2_C25.csv |
-| Arousal | ../expression_set2_C25.csv |
-| Arousal | ../expression_set2_C25.csv |
-| Valence | ../expression_set2_C25.csv |
-| Valence | ../expression_set2_C25.csv |
+| Arousal | ../arousal_set1_C25.csv |
+| Arousal | ../arousal_set2_C25.csv |
+| Valence | ../valence_set1_C25.csv |
+| Valence | ../valence_set2_C25.csv |
 
 ---
 ## 8 Expressions
