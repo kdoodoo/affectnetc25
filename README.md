@@ -34,7 +34,7 @@
 | EMONET Fine-tuned | ARO, VAL| [LINK](https://drive.google.com/drive/folders/1DzaPYztd7VvIwefJDNVkRJLSqOv1Uc1u?usp=drive_link) |
 |EfficientNet B2 Fine-tuned| ARO, VAL| [LINK](https://drive.google.com/drive/folders/1k8eeeYMPUBdSO5dFgE38Pn_Fr2ygTGPr?usp=drive_link)|
 |EfficientNet AFEW Fine-tuned |ARO, VAL| [LINK](https://drive.google.com/drive/folders/1ZihvEAEr_1HxPExT3RYW1mwFPVIsYvTC?usp=drive_link)|
-|EfficientNet VGAF Fine-tuned |ARO, VAL| [LINK]()|
+|EfficientNet VGAF Fine-tuned |ARO, VAL| [LINK](https://drive.google.com/drive/folders/1w7j8gEZMYvWiOizGMcY6NLT6BhcdZlJS?usp=drive_link)|
 
 
 
