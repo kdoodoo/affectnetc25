@@ -6,15 +6,16 @@
 | ------------- | ------------- |
 |Experiment Set II | 800 Random Images |
 
-8 Expressions Code
-{'happiness': 0,
- 'sadness': 1,
- 'surprise': 2,
- 'fear': 3,
- 'disgust': 4,
- 'anger': 5,
- 'contempt': 6,
- 'neutral': 7}
+8 Expressions
+Code = <br />
+{'happiness': 0, <br />
+ 'sadness': 1, <br />
+ 'surprise': 2, <br />
+ 'fear': 3, <br />
+ 'disgust': 4, <br />
+ 'anger': 5, <br />
+ 'contempt': 6, <br />
+ 'neutral': 7} <br />
 
 
 Arousal and Valence 
