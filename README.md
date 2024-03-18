@@ -16,7 +16,7 @@
 |Expresssion | Code|
 |Expresssion | Code|
 |Expresssion | Code|
-|Expresssion | Code|
+|Neutral | 7|
 
 Arousal and Valence 
 |Affective Rating | Range|
