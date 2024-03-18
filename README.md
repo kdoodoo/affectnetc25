@@ -20,7 +20,7 @@
 
 | Set I | arousal_set1_C25.csv |
 | ------------- | ------------- |
-| Set II | ../arousal_set2_C25.csv |
+| Set II | arousal_set2_C25.csv |
 
 ## Valence
 |Valence Rating Dimension|
