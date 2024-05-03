@@ -1,6 +1,6 @@
 # NOTE, The Data and Code Here is under review in IEEE journal. 
 The information transmitted, including any attachments, is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. 
-Any review, retransmission, dissemination or other use of, including academiccal use or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited, 
+Any review, retransmission, dissemination or other use of, including academiccal and personal use,  or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited, 
 and all liability arising therefrom is disclaimed. If you received and seen this in error, please contact the sender and delete the material from any computer.
 
 
