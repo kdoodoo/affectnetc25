@@ -1,6 +1,6 @@
 # NOTE1: We Do Not provide any data from the AffectNet.
 We follow the AffectNet Academic Use License Agreement.
-
+Before use these annotations,<br> 
 DOWNLOAD AffectNet at: <br>
 http://mohammadmahoor.com/affectnet/
 
