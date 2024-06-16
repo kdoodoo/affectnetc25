@@ -1,6 +1,9 @@
-# NOTE1: We Do Not provide any data from the AffectNet.
+# NOTE1: We Do Not re-provide any data from the AffectNet.
+We follow the AffectNet Academic Use License Agreement.
+
 DOWNLOAD AffectNet at: <br>
 http://mohammadmahoor.com/affectnet/
+
 
 <!--http://mohammadmahoor.com/affectnet/
 and Cite the following: <br>
@@ -17,7 +20,12 @@ and all liability arising therefrom is disclaimed. If you received and seen this
 
 
 # AffectNetC25
-
+In order to follow the AffectNet Academic Use License Agreement, we do NOT provide any data of the AffectNet.
+<br>
+Each CSV file is provided with **Row_Number** and **Participants 1,2,3, ..25's Annotations**.
+<br>
+Row_Number is the row_number of the AffectNet, Training.csv file.
+<br>
 - Each Image was Annotated by 25 International Participants.<br>
   
 |Experiment Set I |800 Confusing Images |25 Participants |
