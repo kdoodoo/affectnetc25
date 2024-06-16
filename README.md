@@ -28,7 +28,7 @@ In that way, we ONLY provide annotations of two groups of the 25 Participants.
 |Total         | 1600 Images | 50 Participants  |
 
 - ScreenShot of Free Annotation HTML-Javascript WebAPP.
-- A Facial image of humans is located at the top (Green Alien now), during the experiments.
+- A Facial image of human is located at the top (Green Alien now), during the experiments.
 <img src="https://raw.githubusercontent.com/kdoodoo/affectnetc25/main/html_js1.png" width=60% >
 
 ### 8 Expressions, Arousal and Valence
