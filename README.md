@@ -33,8 +33,8 @@ In that way, we ONLY provide annotations of two groups of the 25 Participants.
 ### 8 Expressions, Arousal and Valence
 |AffectNetC25 | Expression | Arousal | Valence | 
 |:-----------|:-----------|:-----------|:-----------|
-| Set I |   [expression_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/expression_set1_C25.csv) |  [arousal_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/arousal_set1_C25.csv) |[valence_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set1_C25.csv) | |
-| Set II | [expression_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/expression_set2_C25.csv)  | [arousal_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/arousal_set2_C25.csv) |[valence_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set2_C25.csv) | |
+| Set I |   [expression_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/expression_set1_c25.csv) |  [arousal_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/arousal_set1_c25.csv) |[valence_set1_c25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set1_c25.csv) | |
+| Set II | [expression_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/expression_set2_c25.csv)  | [arousal_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/arousal_set2_c25.csv) |[valence_set2_c25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set2_c25.csv) | |
 
 
 | Expression Code |
