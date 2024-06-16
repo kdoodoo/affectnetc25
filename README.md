@@ -12,6 +12,7 @@ Expression, Valence, and Arousal Computing in the Wild," in IEEE Transactions on
 vol. 10, no. 1, pp. 18-31, 1 Jan.-March 2019, doi: 10.1109/TAFFC.2017.2740923.'-->
 
 # AffectNetC25
+The C25 means Annotation by Crowd of 25 people. 
 In order to follow the AffectNet Academic Use License Agreement, we do NOT provide any data of the AffectNet.
 <br>
 Instead, each CSV file is provided with Row_Number, (which we _counted_ from 0) and **Annotations of 25 Participants**.
