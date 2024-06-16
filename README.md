@@ -16,7 +16,8 @@ In order to follow the AffectNet Academic Use License Agreement, we do NOT provi
 <br>
 Instead, each CSV file is provided with Row_Number, (which we _counted_ from 0) and **Annotations of 25 Participants**.
 <br>
-The Row_Number is from Training.csv file of the AffectNet where the image file is located at.
+We counted rows of the Training.csv file of the AffectNet to locate an image which has new annotations.
+<br>
 In that way, we ONLY provide annotations of two groups of 25 people. 
 <br>
 - Each Image was Annotated by 25 International Participants.<br>
