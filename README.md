@@ -69,3 +69,112 @@ Ali Mollahosseini, Behzad Hasani and Mohammad H. Mahoor, "AffectNet: A Database 
 | EfficientNet (B2, AFEW, VGAF)  |[LINK](https://github.com/av-savchenko/face-emotion-recognition) |
 | EMONET  |[LINK](https://github.com/face-analysis/emonet) |
 | DAN  |[LINK](https://github.com/yaoing/DAN) |
+
+ResNet50:<br>
+```@misc{he2015deep,
+      title={Deep Residual Learning for Image Recognition}, 
+      author={Kaiming He and Xiangyu Zhang and Shaoqing Ren and Jian Sun},
+      year={2015},
+      eprint={1512.03385},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
+}
+```
+Crowd Layer:<br>
+```
+@inproceedings{10.5555/3504035.3504232,
+author = {Rodrigues, Filipe and Pereira, Francisco C.},
+title = {Deep learning from crowds},
+year = {2018},
+isbn = {978-1-57735-800-8},
+publisher = {AAAI Press},
+booktitle = {Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence and Thirtieth Innovative Applications of Artificial Intelligence Conference and Eighth AAAI Symposium on Educational Advances in Artificial Intelligence},
+articleno = {197},
+numpages = {8},
+location = {New Orleans, Louisiana, USA},
+series = {AAAI'18/IAAI'18/EAAI'18}
+}
+```
+
+EfficientNet:
+
+```@inproceedings{savchenko2023facial,
+  title = 	 {Facial Expression Recognition with Adaptive Frame Rate based on Multiple Testing Correction},
+  author =       {Savchenko, Andrey},
+  booktitle = 	 {Proceedings of the 40th International Conference on Machine Learning (ICML)},
+  pages = 	 {30119--30129},
+  year = 	 {2023},
+  editor = 	 {Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt, Barbara and Sabato, Sivan and Scarlett, Jonathan},
+  volume = 	 {202},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {23--29 Jul},
+  publisher =    {PMLR},
+  url={https://proceedings.mlr.press/v202/savchenko23a.html}
+}
+```
+```@inproceedings{savchenko2021facial,
+  title={Facial expression and attributes recognition based on multi-task learning of lightweight neural networks},
+  author={Savchenko, Andrey V.},
+  booktitle={Proceedings of the 19th International Symposium on Intelligent Systems and Informatics (SISY)},
+  pages={119--124},
+  year={2021},
+  organization={IEEE},
+  url={https://arxiv.org/abs/2103.17107}
+}
+```
+```@inproceedings{Savchenko_2022_CVPRW,
+  author    = {Savchenko, Andrey V.},
+  title     = {Video-Based Frame-Level Facial Analysis of Affective Behavior on Mobile Devices Using EfficientNets},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  month     = {June},
+  year      = {2022},
+  pages     = {2359-2366},
+  url={https://arxiv.org/abs/2103.17107}
+}
+```
+```@inproceedings{Savchenko_2022_ECCVW,
+  author    = {Savchenko, Andrey V.},
+  title     = {{MT-EmotiEffNet} for Multi-task Human Affective Behavior Analysis and Learning from Synthetic Data},
+  booktitle = {Proceedings of the European Conference on Computer Vision (ECCV 2022) Workshops},
+  pages={45--59},
+  year={2023},
+  organization={Springer},
+  url={https://arxiv.org/abs/2207.09508}
+}
+```
+```@article{savchenko2022classifying,
+  title={Classifying emotions and engagement in online learning based on a single facial expression recognition neural network},
+  author={Savchenko, Andrey V and Savchenko, Lyudmila V and Makarov, Ilya},
+  journal={IEEE Transactions on Affective Computing},
+  year={2022},
+  publisher={IEEE},
+  url={https://ieeexplore.ieee.org/document/9815154}
+}
+```
+EmoNet:<br>
+
+```@article{toisoul2021estimation,
+  author  = {Antoine Toisoul and Jean Kossaifi and Adrian Bulat and Georgios Tzimiropoulos and Maja Pantic},
+  title   = {Estimation of continuous valence and arousal levels from faces in naturalistic conditions},
+  journal = {Nature Machine Intelligence},
+  year    = {2021},
+  url     = {https://www.nature.com/articles/s42256-020-00280-0}
+}
+```
+
+DAN:<br>
+
+```@article{Wen_2023,
+   title={Distract Your Attention: Multi-Head Cross Attention Network for Facial Expression Recognition},
+   volume={8},
+   ISSN={2313-7673},
+   url={http://dx.doi.org/10.3390/biomimetics8020199},
+   DOI={10.3390/biomimetics8020199},
+   number={2},
+   journal={Biomimetics},
+   publisher={MDPI AG},
+   author={Wen, Zhengyao and Lin, Wenzhong and Wang, Tao and Xu, Ge},
+   year={2023},
+   month=may, pages={199} }
+```
+
