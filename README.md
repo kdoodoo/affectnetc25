@@ -1,5 +1,5 @@
 # NOTE1: The Data is from the AffectNet.
-Please DOWNLOAD from the link: <br>
+DOWNLOAD and follow the Agreement at: <br>
 http://mohammadmahoor.com/affectnet/
 <br>and Cite the following: <br>
 Ali Mollahosseini, Behzad Hasani and Mohammad H. Mahoor, "AffectNet: A Database for Facial
