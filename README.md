@@ -14,7 +14,7 @@ vol. 10, no. 1, pp. 18-31, 1 Jan.-March 2019, doi: 10.1109/TAFFC.2017.2740923.'-
 # AffectNetC25
 In order to follow the AffectNet Academic Use License Agreement, we do NOT provide any data of the AffectNet.
 <br>
-Instead, each CSV file is provided with Row_Number, (which we _counted_ from 0) and **Annotations of Participants**.
+Instead, each CSV file is provided with Row_Number, (which we _counted_ from 0) and **Annotations of 25 Participants**.
 <br>
 The Row_Number is from Training.csv file of the AffectNet where the image file is located at.
 In that way, we ONLY provide annotations of two groups of 25 people. 
