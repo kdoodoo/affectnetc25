@@ -22,9 +22,10 @@ and all liability arising therefrom is disclaimed. If you received and seen this
 # AffectNetC25
 In order to follow the AffectNet Academic Use License Agreement, we do NOT provide any data of the AffectNet.
 <br>
-Each CSV file is provided with **Row_Number** and **Participants 1,2,3, ..25's Annotations**.
+Instead, each CSV file is provided with Row_Number and **Annotations of Participants**.
 <br>
-Row_Number is the row_number of the AffectNet, Training.csv file.
+The Row_Number is from Training.csv file of the AffectNet where the image file is located at.
+In that way, we ONLY provide annotations of two groups of 25 people. 
 <br>
 - Each Image was Annotated by 25 International Participants.<br>
   
