@@ -78,6 +78,24 @@ Ali Mollahosseini, Behzad Hasani and Mohammad H. Mahoor, "AffectNet: A Database 
 | EMONET  |[LINK](https://github.com/face-analysis/emonet) |
 | DAN  |[LINK](https://github.com/yaoing/DAN) |
 
+AffectNet:<br>
+```@ARTICLE {8013713,
+author = {A. Mollahosseini and B. Hasani and M. H. Mahoor},
+journal = {IEEE Transactions on Affective Computing},
+title = {AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild},
+year = {2019},
+volume = {10},
+number = {01},
+issn = {1949-3045},
+pages = {18-31},
+keywords = {databases;computational modeling;face;face recognition;affective computing;magnetic heads},
+doi = {10.1109/TAFFC.2017.2740923},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {jan}
+}
+```
+
 ResNet50:<br>
 ```@misc{he2015deep,
       title={Deep Residual Learning for Image Recognition}, 
