@@ -11,14 +11,6 @@ Ali Mollahosseini, Behzad Hasani and Mohammad H. Mahoor, "AffectNet: A Database 
 Expression, Valence, and Arousal Computing in the Wild," in IEEE Transactions on Affective Computing,
 vol. 10, no. 1, pp. 18-31, 1 Jan.-March 2019, doi: 10.1109/TAFFC.2017.2740923.'-->
 
-# NOTE2: The Data and Code Here is under review in IEEE journal. 
-The information transmitted, including any attachments, is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. 
-Any review, retransmission, dissemination or other use of, including academiccal and personal use,  or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited, 
-and all liability arising therefrom is disclaimed. If you received and seen this in error, please contact the sender and delete the material from any computer.
-
-
-
-
 # AffectNetC25
 In order to follow the AffectNet Academic Use License Agreement, we do NOT provide any data of the AffectNet.
 <br>
@@ -65,6 +57,11 @@ In that way, we ONLY provide annotations of two groups of 25 people.
 |EfficientNet AFEW  | AffectNet|ARO, VAL| [LINK](https://drive.google.com/drive/folders/1ZihvEAEr_1HxPExT3RYW1mwFPVIsYvTC?usp=drive_link)| Pytorch |
 |EfficientNet VGAF | AffectNet|ARO, VAL| [LINK](https://drive.google.com/drive/folders/1w7j8gEZMYvWiOizGMcY6NLT6BhcdZlJS?usp=drive_link)| Pytorch |
 
+
+# NOTE2: The Data and Code Here is under review in IEEE journal. 
+The information transmitted, including any attachments, is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. 
+Any review, retransmission, dissemination or other use of, including academiccal and personal use,  or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited, 
+and all liability arising therefrom is disclaimed. If you received and seen this in error, please contact the sender and delete the material from any computer.
 
 
 
