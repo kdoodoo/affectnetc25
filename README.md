@@ -1,11 +1,12 @@
-# NOTE1: The Data is from the AffectNet.
-DOWNLOAD and follow the Agreement at: <br>
+# NOTE1: We Do Not provide any data from the AffectNet.
+DOWNLOAD AffectNet at: <br>
 http://mohammadmahoor.com/affectnet/
-<br>and Cite the following: <br>
+
+<!--http://mohammadmahoor.com/affectnet/
+and Cite the following: <br>
 Ali Mollahosseini, Behzad Hasani and Mohammad H. Mahoor, "AffectNet: A Database for Facial
 Expression, Valence, and Arousal Computing in the Wild," in IEEE Transactions on Affective Computing,
-vol. 10, no. 1, pp. 18-31, 1 Jan.-March 2019, doi: 10.1109/TAFFC.2017.2740923.'
-
+vol. 10, no. 1, pp. 18-31, 1 Jan.-March 2019, doi: 10.1109/TAFFC.2017.2740923.'-->
 
 # NOTE2: The Data and Code Here is under review in IEEE journal. 
 The information transmitted, including any attachments, is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. 
