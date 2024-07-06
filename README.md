@@ -3,7 +3,7 @@ Before Use:
 1. Cite: <br>
 Ali Mollahosseini, Behzad Hasani, and Mohammad H. Mahoor, “AffectNet: A New Database for Facial Expression, Valence, and Arousal Computation in the Wild”, IEEE Transactions on Affective Computing, 2017<br>
 2. Refer to http://mohammadmahoor.com/affectnet/ <br>
-and DOWNLOAD AffectNet.
+and DOWNLOAD AffectNet, firstly.
 
 <!--http://mohammadmahoor.com/affectnet/
 and Cite the following: <br>
