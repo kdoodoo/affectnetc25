@@ -1,5 +1,7 @@
 # NOTE1: We obtained written permission from the University of Denver, Office of IP & Tech Transfer.
+
 Before Use:
+
 1. Cite: <br>
 Ali Mollahosseini, Behzad Hasani, and Mohammad H. Mahoor, “AffectNet: A New Database for Facial Expression, Valence, and Arousal Computation in the Wild”, IEEE Transactions on Affective Computing, 2017<br>
 2. Refer to http://mohammadmahoor.com/affectnet/ <br>
@@ -14,15 +16,17 @@ vol. 10, no. 1, pp. 18-31, 1 Jan.-March 2019, doi: 10.1109/TAFFC.2017.2740923.'-
 # AffectNetC25
 We named the new annotation as AffectNetC25 as 'C25' means **Crowd and 25 people**. 
 <br>
-In order to follow the AffectNet Academic Use License Agreement, we do NOT provide any data of the AffectNet.
+|index|filename |Participant1 |Participant2 |Participant3 |...|Participant25 |
+|:----|:--------|:------------|:------------|:------------|:----|:-----------|
+|123| abc.jpg |5 |2 |5 |...|8 |
+|789| xyz.jpg |4|4 |5 |...|4 |
+
 <br>
-Instead, each CSV file is provided with Row_Number, (which we _counted_ from 0) and **Annotations of 25 Participants**.
-<br>
-We counted rows of the Training.csv file of the AffectNet to locate an image which has the new annotations.
-<br>
-In that way, we ONLY provide annotations of two groups of the 25 Participants. 
-<br>
-- Each Image was Annotated by 25 International Participants.<br>
+1. We included **index** of the images. <br>
+Indeces are counted rows of the **Training.csv** file of the AffectNet. (which we _counted_ from 0) <br>  
+2. We included **filenames** of the images. <br>
+3. Each Image was Annotated by **25 International Participants**.<br>
+
   
 |Experiment Set I |800 Confusing Images |25 Participants |
 |:-----------------|:--------------------|:---------------|
