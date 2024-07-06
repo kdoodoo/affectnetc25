@@ -1,9 +1,9 @@
-# NOTE1: We Do Not provide any data from the AffectNet.
-We follow the AffectNet Academic Use License Agreement. <br>
-Before use these annotations,<br> 
-DOWNLOAD AffectNet at: <br>
-http://mohammadmahoor.com/affectnet/
-
+# NOTE1: We obtained written permission from the University of Denver, Office of IP & Tech Transfer.
+Before Use:
+1. Cite: <br>
+Ali Mollahosseini, Behzad Hasani, and Mohammad H. Mahoor, “AffectNet: A New Database for Facial Expression, Valence, and Arousal Computation in the Wild”, IEEE Transactions on Affective Computing, 2017<br>
+2. Refer to http://mohammadmahoor.com/affectnet/ <br>
+and DOWNLOAD AffectNet.
 
 <!--http://mohammadmahoor.com/affectnet/
 and Cite the following: <br>
