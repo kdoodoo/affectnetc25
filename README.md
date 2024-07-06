@@ -1,4 +1,4 @@
-# NOTE1: We obtained written permission from the University of Denver, Office of IP & Tech Transfer.
+# NOTE : We obtained Written Permission from the University of Denver, Office of IP & Tech Transfer.
 
 Before Use:
 
