@@ -25,7 +25,7 @@ and DOWNLOAD AffectNet, firstly.
 |123| abc.jpg |_Annotation_|_Annotation_ |_Annotation_ |...|_Annotation_ |
 |789| xyz.jpg |_Annotation_|_Annotation_ |_Annotation_ |...|_Annotation_ | 
 1. We included **_index_** of the images. <br>
-Indeces are counted rows of the **Training.csv** file of the AffectNet. (which we _counted_ from 0) <br>  
+Indeces are counted rows of the **Training.csv** file of the AffectNet (which we _counted_ from 0). <br>  
 2. We included **_filenames_** of the images. <br>
 3. Each Image was Annotated by **_25 International Participants_**.<br>
 
