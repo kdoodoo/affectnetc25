@@ -55,7 +55,7 @@ Indeces are counted rows of the **Training.csv** file of the AffectNet. (which w
 | range = {-1.00,  -0.75,  -0.50,  -0.25,  0.00,  0.25,  0.50,  0.75,  1.00}|
 
 -----------------------------------------
-# Our Reserached Model 
+# Our Researched Models 
 - EXP: Expression, ARO: Arousal, VAL: Valence
 - MV : Majority Vote, CV : Crowd Vote
   
