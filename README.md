@@ -20,7 +20,7 @@ and DOWNLOAD AffectNet, firstly.
 
 ### The CSV files are composed as: 
 
-|index|filename |Participant1 |Participant2 |Participant3 |...|Participant25 |
+|index|filename |Participant0 |Participant1 |Participant2 |...|Participant24 |
 |:----|:--------|:------------|:------------|:------------|:----|:-----------|
 |123| abc.jpg |_Annotation_|_Annotation_ |_Annotation_ |...|_Annotation_ |
 |789| xyz.jpg |_Annotation_|_Annotation_ |_Annotation_ |...|_Annotation_ | 
