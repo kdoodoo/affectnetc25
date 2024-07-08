@@ -37,7 +37,7 @@ Indeces are counted rows of the **Training.csv** file of the AffectNet. (which w
 
 - ScreenShot of Free Annotation HTML-Javascript WebAPP.
 - A Facial image of human is located at the top (Green Alien now), during the experiments.
-<img src="https://raw.githubusercontent.com/kdoodoo/affectnetc25/html_js1.png" width=60% >
+<img src="https://raw.githubusercontent.com/kdoodoo/affectnetc25/main/html_js1.png" width=60% >
 
 
 
