@@ -32,8 +32,8 @@ Indeces are counted rows of the **Training.csv** file of the AffectNet (which we
 ### AffectNetC25 has 2 sets of 800 images.
 |Set  | Images |Participants |
 |:-----------------|:--------------------|:---------------|
-|Experiment Set I |800 Confusing Images |25 Participants |
-|Experiment Set II | 800 Random Images |25 Participants  |
+| Set I |800 Confusing Images |25 Participants |
+| Set II | 800 Random Images |25 Participants  |
 |Total         | 1600 Images | 50 Participants  |
 
 ### CSV files for Expressions, Arousal and Valence
@@ -45,7 +45,7 @@ Indeces are counted rows of the **Training.csv** file of the AffectNet (which we
 ### Annotaton Pointers
 | Expression Code |
 |:----------------------|
-| Code = {'happiness': 0,'sadness': 1, 'surprise': 2, 'fear': 3, 'disgust': 4, 'anger': 5, 'contempt': 6, 'neutral': 7}  |
+| code = {'happiness': 0,'sadness': 1, 'surprise': 2, 'fear': 3, 'disgust': 4, 'anger': 5, 'contempt': 6, 'neutral': 7}  |
 |Arousal and Valence Dimension|
 | range = {-1.00,  -0.75,  -0.50,  -0.25,  0.00,  0.25,  0.50,  0.75,  1.00}|
 
