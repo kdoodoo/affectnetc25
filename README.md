@@ -9,7 +9,7 @@ vol. 10, no. 1, pp. 18-31, 1 Jan.-March 2019, doi: 10.1109/TAFFC.2017.2740923.'-
 # AffectNetC25
 AffectNetC25 is a subset of 1600 images of AffectNet training set. <br>
 Each images is annotated by 25 participants on Arousal, Valence and Expression(8-class). <br>
-We named the new annotation as AffectNetC25 as 'C25' means **Crowd and 25 people**. 
+We named the new annotation as AffectNetC25 as 'C25' means **'Crowd' and '25 people'**. 
 
 ### NOTE1 : We obtained Written Permission from the AffectNet, University of Denver, Office of IP & Tech Transfer.
 Before Use:
