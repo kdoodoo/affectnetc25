@@ -22,8 +22,8 @@ and DOWNLOAD AffectNet, firstly.
 
 |index|filename |Participant1 |Participant2 |Participant3 |...|Participant25 |
 |:----|:--------|:------------|:------------|:------------|:----|:-----------|
-|123| abc.jpg |5 |2 |5 |...|8 |
-|789| xyz.jpg |4|4 |5 |...|4 | 
+|123| abc.jpg |Annotation|Annotation |Annotation |...|Annotation |
+|789| xyz.jpg |Annotation|Annotation |Annotation |...|Annotation | 
 1. We included **_index_** of the images. <br>
 Indeces are counted rows of the **Training.csv** file of the AffectNet. (which we _counted_ from 0) <br>  
 2. We included **_filenames_** of the images. <br>
