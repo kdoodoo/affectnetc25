@@ -11,14 +11,14 @@ AffectNetC25 is a subset of 1600 images of AffectNet training set. <br>
 Each images is annotated by 25 participants on Arousal, Valence and Expression(8-class). <br>
 We named the new annotation as AffectNetC25 as 'C25' means **Crowd and 25 people**. 
 
-## NOTE1 : We obtained Written Permission from the AffectNet, University of Denver, Office of IP & Tech Transfer.
+### NOTE1 : We obtained Written Permission from the AffectNet, University of Denver, Office of IP & Tech Transfer.
 Before Use:
 1. Cite: <br>
 Ali Mollahosseini, Behzad Hasani, and Mohammad H. Mahoor, “AffectNet: A New Database for Facial Expression, Valence, and Arousal Computation in the Wild”, IEEE Transactions on Affective Computing, 2017<br>
 2. Refer to http://mohammadmahoor.com/affectnet/ <br>
 and DOWNLOAD AffectNet, firstly.
 
-## The CSV files are composed as: 
+### The CSV files are composed as: 
 
 |index|filename |Participant1 |Participant2 |Participant3 |...|Participant25 |
 |:----|:--------|:------------|:------------|:------------|:----|:-----------|
@@ -29,20 +29,20 @@ Indeces are counted rows of the **Training.csv** file of the AffectNet. (which w
 2. We included **_filenames_** of the images. <br>
 3. Each Image was Annotated by **_25 International Participants_**.<br>
 
-## AffectNetC25 has 2 sets of 800 images.
+### AffectNetC25 has 2 sets of 800 images.
 |Set  | Images |Participants |
 |:-----------------|:--------------------|:---------------|
 |Experiment Set I |800 Confusing Images |25 Participants |
 |Experiment Set II | 800 Random Images |25 Participants  |
 |Total         | 1600 Images | 50 Participants  |
 
-## CSV files for Expressions, Arousal and Valence
+### CSV files for Expressions, Arousal and Valence
 |AffectNetC25 | Expression | Arousal | Valence | 
 |:-----------|:-----------|:-----------|:-----------|
 | Set I |   [expression_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/expression_set1_C25.csv) |  [arousal_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/arousal_set1_C25.csv) |[valence_set1_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set1_C25.csv) | |
 | Set II | [expression_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/expression_set2_C25.csv)  | [arousal_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/arousal_set2_C25.csv) |[valence_set2_C25.csv](https://github.com/kdoodoo/affectnetc25/blob/main/AffectNetC25/valence_set2_C25.csv) | |
 
-## Annotaton Pointers
+### Annotaton Pointers
 | Expression Code |
 |:----------------------|
 | Code = {'happiness': 0,'sadness': 1, 'surprise': 2, 'fear': 3, 'disgust': 4, 'anger': 5, 'contempt': 6, 'neutral': 7}  |
@@ -50,7 +50,7 @@ Indeces are counted rows of the **Training.csv** file of the AffectNet. (which w
 | range = {-1.00,  -0.75,  -0.50,  -0.25,  0.00,  0.25,  0.50,  0.75,  1.00}|
 
 
-## Annotation Method
+### Annotation Method
 - We made a HTML-Javascript based app to collect/monitor annotations.
 - ScreenShot of Free Annotation HTML-Javascript WebAPP.
 - A Facial image of human is located at the top (Green Alien now), during the experiments.
@@ -59,7 +59,7 @@ Indeces are counted rows of the **Training.csv** file of the AffectNet. (which w
 
 
 -----------------------------------------
-## Our Researched Models 
+### Our Researched Models 
 - EXP: Expression, ARO: Arousal, VAL: Valence
 - MV : Majority Vote, CV : Crowd Vote
   
@@ -84,7 +84,7 @@ and all liability arising therefrom is disclaimed. If you received and seen this
 Ali Mollahosseini, Behzad Hasani and Mohammad H. Mahoor, "AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild," in IEEE Transactions on Affective Computing, vol. 10, no. 1, pp. 18-31, 1 Jan.-March 2019, doi: 10.1109/TAFFC.2017.2740923.'-->
 
 ---
-## Model References :
+### Model References :
 We cited the models/papers accordingly for the academic use.
 |MODEL  | LINK |
 | ------------- | ------------- |
