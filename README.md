@@ -1,4 +1,4 @@
-# NOTE1 : We obtained Written Permission from the AffecetNet, University of Denver, Office of IP & Tech Transfer.
+# NOTE1 : We obtained Written Permission from the AffectNet, University of Denver, Office of IP & Tech Transfer.
 
 Before Use:
 
