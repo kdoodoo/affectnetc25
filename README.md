@@ -80,7 +80,8 @@ and all liability arising therefrom is disclaimed. If you received and seen this
 Ali Mollahosseini, Behzad Hasani and Mohammad H. Mahoor, "AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild," in IEEE Transactions on Affective Computing, vol. 10, no. 1, pp. 18-31, 1 Jan.-March 2019, doi: 10.1109/TAFFC.2017.2740923.'-->
 
 ---
-# Reference
+# Reference Models:
+
 |MODEL  | LINK |
 | ------------- | ------------- |
 | ResNet50  |[LINK](https://www.tensorflow.org/api_docs/python/tf/keras/applications/resnet50/ResNet50) |
@@ -89,6 +90,7 @@ Ali Mollahosseini, Behzad Hasani and Mohammad H. Mahoor, "AffectNet: A Database 
 | EMONET  |[LINK](https://github.com/face-analysis/emonet) |
 | DAN  |[LINK](https://github.com/yaoing/DAN) |
 
+<!--
 AffectNet:<br>
 ```@ARTICLE {8013713,
 author = {A. Mollahosseini and B. Hasani and M. H. Mahoor},
@@ -215,3 +217,4 @@ DAN:<br>
    month=may, pages={199} }
 ```
 
+-->
