@@ -59,7 +59,9 @@ Indeces are counted rows of the **Training.csv** file of the AffectNet (which we
 
 
 -----------------------------------------
-### Our Researched Models 
+### Our Researched Models. 
+When analyze our derived models, Cite the original models accordingly as we note 'Model References' at the below. 
+
 - EXP: Expression, ARO: Arousal, VAL: Valence
 - MV : Majority Vote, CV : Crowd Vote
   
