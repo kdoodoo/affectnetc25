@@ -65,13 +65,13 @@ Indeces are counted rows of the **Training.csv** file of the AffectNet (which we
   
 |MODEL  | Data| EXP, ARO, VAL| LINK | NOTE|
 |:------------- |:-------------|:------------- |:----------|:----------|
-|ResNet50 Fine-tuned | AffectNetC25 MV|EXP, ARO, VAL|[LINK](https://drive.google.com/drive/folders/1hsxtU8t2keXSq7Z-d-RaYN0P14tCNbh4?usp=drive_link) | TensorFlow |
-|ResNet50 Crowd Layer (MW, VW, VW+B) | AffectNetC25 CV| EXP | [LINK](https://drive.google.com/drive/folders/1oDMCFqxT547wcsQ_ecdF4NjbkBvgoDbC?usp=drive_link) | TensorFlow |
-|ResNet50 Crowd Layer (S+B) | AffectNetC25 CV|ARO, VAL| [LINK](https://drive.google.com/drive/folders/11lLKZAHkXPlyZU_4lAA3aobOYwBiwQc1?usp=drive_link)| TensorFlow |
-|EMONET Fine-tuned | AffectNetC25 MV| ARO, VAL| [LINK](https://drive.google.com/drive/folders/1DzaPYztd7VvIwefJDNVkRJLSqOv1Uc1u?usp=drive_link) | Pytorch |
-|EfficientNet B2 | AffectNet| ARO, VAL| [LINK](https://drive.google.com/drive/folders/1k8eeeYMPUBdSO5dFgE38Pn_Fr2ygTGPr?usp=drive_link)| Pytorch |
+|ResNet50 Fine-tuned | AffectNetC25 MV|EXP, ARO, VAL|[LINK](https://drive.google.com/drive/folders/1hsxtU8t2keXSq7Z-d-RaYN0P14tCNbh4?usp=sharing) | TensorFlow |
+|ResNet50 Crowd Layer (MW, VW, VW+B) | AffectNetC25 CV| EXP | [LINK](https://drive.google.com/drive/folders/1oDMCFqxT547wcsQ_ecdF4NjbkBvgoDbC?usp=sharing) | TensorFlow |
+|ResNet50 Crowd Layer (S+B) | AffectNetC25 CV|ARO, VAL| [LINK](https://drive.google.com/drive/folders/11lLKZAHkXPlyZU_4lAA3aobOYwBiwQc1?usp=sharing)| TensorFlow |
+|EMONET Fine-tuned | AffectNetC25 MV| ARO, VAL| [LINK](https://drive.google.com/drive/folders/1DzaPYztd7VvIwefJDNVkRJLSqOv1Uc1u?usp=sharing) | Pytorch |
+|EfficientNet B2 | AffectNet| ARO, VAL| [LINK](https://drive.google.com/drive/folders/1k8eeeYMPUBdSO5dFgE38Pn_Fr2ygTGPr?usp=sharing)| Pytorch |
 |EfficientNet AFEW  | AffectNet|ARO, VAL| [LINK](https://drive.google.com/drive/folders/1ZihvEAEr_1HxPExT3RYW1mwFPVIsYvTC?usp=drive_link)| Pytorch |
-|EfficientNet VGAF | AffectNet|ARO, VAL| [LINK](https://drive.google.com/drive/folders/1w7j8gEZMYvWiOizGMcY6NLT6BhcdZlJS?usp=drive_link)| Pytorch |
+|EfficientNet VGAF | AffectNet|ARO, VAL| [LINK](https://drive.google.com/drive/folders/1w7j8gEZMYvWiOizGMcY6NLT6BhcdZlJS?usp=sharing)| Pytorch |
 
 
 ## NOTE2: The Data and Code Here is under review in IEEE journal. 
