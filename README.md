@@ -70,7 +70,7 @@ Indeces are counted rows of the **Training.csv** file of the AffectNet (which we
 |ResNet50 Crowd Layer (S+B) | AffectNetC25 CV|ARO, VAL| [LINK](https://drive.google.com/drive/folders/11lLKZAHkXPlyZU_4lAA3aobOYwBiwQc1?usp=sharing)| TensorFlow |
 |EMONET Fine-tuned | AffectNetC25 MV| ARO, VAL| [LINK](https://drive.google.com/drive/folders/1DzaPYztd7VvIwefJDNVkRJLSqOv1Uc1u?usp=sharing) | Pytorch |
 |EfficientNet B2 | AffectNet| ARO, VAL| [LINK](https://drive.google.com/drive/folders/1k8eeeYMPUBdSO5dFgE38Pn_Fr2ygTGPr?usp=sharing)| Pytorch |
-|EfficientNet AFEW  | AffectNet|ARO, VAL| [LINK](https://drive.google.com/drive/folders/1ZihvEAEr_1HxPExT3RYW1mwFPVIsYvTC?usp=drive_link)| Pytorch |
+|EfficientNet AFEW  | AffectNet|ARO, VAL| [LINK](https://drive.google.com/drive/folders/1ZihvEAEr_1HxPExT3RYW1mwFPVIsYvTC?usp=sharing)| Pytorch |
 |EfficientNet VGAF | AffectNet|ARO, VAL| [LINK](https://drive.google.com/drive/folders/1w7j8gEZMYvWiOizGMcY6NLT6BhcdZlJS?usp=sharing)| Pytorch |
 
 
