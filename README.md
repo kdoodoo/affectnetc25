@@ -87,8 +87,8 @@ Ali Mollahosseini, Behzad Hasani and Mohammad H. Mahoor, "AffectNet: A Database 
 
 ---
 ### Model References :
-We cited the models/papers accordingly for the academic use.
-|MODEL  | LINK |
+We refer the models/papers accordingly for the academic use.
+|MODEL  | Reference LINK |
 | ------------- | ------------- |
 | ResNet50  |[LINK](https://www.tensorflow.org/api_docs/python/tf/keras/applications/resnet50/ResNet50) |
 | Crowd Layer  |[LINK](https://github.com/fmpr/CrowdLayer) |
